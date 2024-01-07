@@ -1,9 +1,3 @@
-<h1 align="center">Hi 👋, I'm Pavlo Huk</h1>
-<h3 align="center">A self-taught programmer and born at very little age😜</h3>
-
-- 🌱 I’m currently learning **React Native, Kotlin, Swift**
-- ⚡ Fun fact **I love to play Table tennis and Football.**
-
 👔[linekdin](https://www.linkedin.com/in/hukpo/) | 📧 [mail](mailto:pavlo.huk@icloud.com) | ![](https://komarev.com/ghpvc/?username=hukpo&color=blue)
 
 
